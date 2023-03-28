@@ -1,6 +1,6 @@
 # ES6 Basics  
 
-![meme](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230321%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230321T043609Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=60eedcd215ba97e5d52bc6760f3fc0a4a0725b87901d323057c03b19ea0cb30a)
+![meme](https://ml.globenewswire.com/Resource/Download/a08e6c28-55be-44c8-8461-03544f094b38?size=3)
 _______________________________________  
 ## General  
 All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x  
